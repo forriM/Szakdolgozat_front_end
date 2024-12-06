@@ -1,0 +1,12 @@
+video {
+    transform: scaleX(-1);
+}
+
+.loadingcontainer {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+}
